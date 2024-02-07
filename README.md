@@ -1,4 +1,4 @@
-﻿﻿﻿﻿<h1 align="center">
+﻿﻿<h1 align="center">
   <br>
   <a href="#"><img src="Images/Logo.png" alt="Logo" width="150"></a>
   <br>
@@ -6,7 +6,7 @@
   <br>
 </h1>
 
-<h4 align="center"></h4>
+<h4 align="center">Display your reddit karma in the top bar and do showcases with you custom profile card.</h4>
 
 <p align="center">
   <a href="https://droptopfour.com/community-apps">
@@ -32,13 +32,18 @@
 </p>
 
 ## Key Features
+- Hideable Text.
 
 ## How to use
+1. Open Karmy App Settings.
+1. Type your Reddit User into the username field and press enter.
+1. Enjoy.
 
 ## Download
 Download from [releases](https://github.com/KazukiGames82/Karmy-KazukiGames82/releases) or from the [website](https://www.droptopfour.com/community-apps/?id=45)
 
 ## Credits
+Me.
 
 ## License
 [GNU General Public License v3.0](LICENSE)
