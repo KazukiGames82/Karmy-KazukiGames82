@@ -33,6 +33,7 @@
 
 ## Key Features
 - Hideable Text.
+- Hideable Icon.
 
 ## How to use
 1. Open Karmy App Settings.
